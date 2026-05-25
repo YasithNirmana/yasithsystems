@@ -98,7 +98,7 @@ export default function DemoVideoSection() {
         {/* Below video CTA */}
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="https://demo.yasithsystems.com"
+            href="https://demo.yasithsystems.online"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-semibold transition-all duration-200 shadow-lg shadow-blue-600/20 hover:scale-[1.02]"
