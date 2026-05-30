@@ -52,7 +52,7 @@ export default function HeroSection() {
             </span>
           </a>
           <a
-            href="https://demo.yasithsystems.com"
+            href="https://demo.yasithsystems.online"
             target="_blank"
             rel="noopener noreferrer"
             className="group px-8 py-4 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 hover:border-white/20 text-white font-semibold text-base transition-all duration-200"
